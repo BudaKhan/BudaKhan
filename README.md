@@ -22,7 +22,7 @@ Si te interesa mi trabajo, te pido que revises mi perfil de GitHub donde estaré
 <p>Gym💪</p>
 <br/>
 ##
-'''js
+```js
 const BudaKhan = {
 pronouns: 'he' || 'him',
   code: {
@@ -35,7 +35,7 @@ pronouns: 'he' || 'him',
     email: "ezequiellobo259@gmail.com"
   }
 };
-'''
+```
 ##
 
 ## Contacta conmigo! :
