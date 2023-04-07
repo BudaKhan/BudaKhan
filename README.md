@@ -7,11 +7,14 @@
 <p>Soy alguien que se esfuerza en mejorar. Soy apasionado de los videojuegos y la programación. Tengo experiencia con varias tecnologías en mis proyectos, aunque no soy un experto programando, puedes contar con que me esforzaré en encontrar la solución. Busco ganar más experiencia para mejorar mis habilidades. Me considero una persona que aprende rápido.
 Actualmente, estoy empezando a hacer mi portafolio para que vean mis proyectos y cómo me desarrollo al hacer mi trabajo. ¡Estoy feliz por esta nueva etapa y poder evolucionar como desarrollador web!
 Si te interesa mi trabajo, te pido que revises mi perfil de GitHub donde estaré subiendo mis proyectos y colaboraciones. Si necesitas saber algo o conocerme, puedes contactar conmigo.</p>
+  
 <br/>
+  
 <h3>Me gusta:</h3>
 <p>El frío❄</p>
 <p>El mate🧉</p>
 <p>Aprender📚</p>
+  
 
 <h3>Hobbies:</h3>
 <p>Videojuegos🎮</p>
@@ -29,7 +32,7 @@ pronouns: 'he' || 'him',
     frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "CSS modules" ],
   },
   contact: {
-    email: "mrtban.dev@gmail.com"
+    email: "ezequiellobo259@gmail.com"
   }
 };
 '''
