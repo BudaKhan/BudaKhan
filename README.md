@@ -14,13 +14,13 @@ Si te interesa mi trabajo, te pido que revises mi perfil de GitHub donde estaré
 <p>El frío❄</p>
 <p>El mate🧉</p>
 <p>Aprender📚</p>
-  
+  <br/>
 
 <h3>Hobbies:</h3>
 <p>Videojuegos🎮</p>
 <p>Ajedrez♟</p>
 <p>Gym💪</p>
-
+<br/>
 ##
 '''js
 const BudaKhan = {
