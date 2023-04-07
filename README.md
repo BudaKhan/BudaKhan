@@ -22,7 +22,9 @@ Si te interesa mi trabajo, te pido que revises mi perfil de GitHub donde estaré
 <p>Gym💪</p>
 <br/>
   </div>
+  
 ##
+
 ```js
 const BudaKhan = {
 pronouns: 'he' || 'him',
