@@ -1,6 +1,7 @@
 <div>
 <h1>Hola :D! soy Mauri, bienvenido a mi perfil</h1>
-<h3> me ubico en Pilar, Buenos Aires, Argentina</h3>
+<h3> 
+  Me ubico en Pilar, Buenos Aires, Argentina</h3>
 <br/>
 <h2>Datos sobre mi: </h3>
 <p>Soy alguien que se esfuerza en mejorar. Soy apasionado de los videojuegos y la programación. Tengo experiencia con varias tecnologías en mis proyectos, aunque no soy un experto programando, puedes contar con que me esforzaré en encontrar la solución. Busco ganar más experiencia para mejorar mis habilidades. Me considero una persona que aprende rápido.
